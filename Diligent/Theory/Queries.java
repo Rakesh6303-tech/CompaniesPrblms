@@ -85,6 +85,21 @@ The controller then calls the service layer, which passes the request to the rep
 The repository executes a DELETE query in the database — it finds the employee by ID and removes that record.
 After deletion, the backend sends a response back to Postman confirming that the record was deleted successfully, 
                    usually with status code 200 OK or 204 No Content.”
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ✅ Interview Question:
+“How do you get employee data in your project using Postman?”
+or
+“What happens when you send a GET request to fetch data?”
+💬 
+“When I want to get employee data, I use the GET method in Postman.
+For example, if I want to fetch all employees, I send a request to:
+GET http://localhost:8080/api/employees
+If I want to fetch a single employee by ID, I use:
+GET http://localhost:8080/api/employees/6
+When I click Send, the request goes to the backend controller that handles GET requests.
+The controller calls the service layer, which retrieves the data from the repository.
+The repository runs a SELECT query in the database and sends the result back.
+Finally, the controller returns the data as a JSON response in Postman with status 200 OK.
 - - --------------------------------------------------------------: Queries On TechStack :----------------------------------------------------------------------------------
 
   1) Explain about Oops?
