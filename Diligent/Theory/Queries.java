@@ -4,7 +4,8 @@
 -----------------------------------------------------------------
   ### ✅ **Answer:**
 “In my project, we had an API endpoint to update employee details.
-To update an employee’s email using Postman, I used the **PATCH** method since we were updating only one field.
+//To update an employee’s email using Postman, 
+I used the **PATCH** method since we were updating only one field right.
 For example, I used the endpoint:
 ```
 http://localhost:8080/api/employees/5
