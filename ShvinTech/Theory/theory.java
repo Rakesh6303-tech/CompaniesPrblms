@@ -6,6 +6,7 @@ Diff blw Sets, Maps?
 Diff b/w Comparator & Comparable?
 Which Set Doesn't Store Duplicate, Heterogenous Data?
 How do You Handle Exceptions?
+What are the Interfaces in Collections?
 
 <------Coding--------->
 write a program to print 1 to 100 without using loops?
