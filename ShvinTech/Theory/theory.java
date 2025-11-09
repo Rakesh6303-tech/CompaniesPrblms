@@ -4,6 +4,7 @@ Diff b/w Array, ArrayList?
 Diff b/w == , .equals()?
 Diff blw Sets, Maps?
 Diff b/w Comparator & Comparable?
+Diff b/w Encapsulation & Abstraction?
 Which Set Doesn't Store Duplicate, Heterogenous Data?
 How do You Handle Exceptions?
 What are the Interfaces in Collections?
